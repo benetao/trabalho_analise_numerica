@@ -14,9 +14,9 @@ Blah blah blah
 
 <br>**SOBRE A ORGANIZAÇÃO DO GITHUB:**
 - Pasta 'Tal e Tal': todos os documentos disponibilizados dentro dela estarão relacionados com conceitos e exercícios de tal e tal matéria;
-> **Status**: `FINALIZADA`
+> **Status**: `EM ANDAMENTO`
 - Pasta 'Taltaltal': todos os documentos nela presentes estarão relacionados com conceitos e exercícios relacionados com tal
-> Status: `FINALIZADA`
+> Status: `EM ANDAMENTO`
 
 <hr>
 
