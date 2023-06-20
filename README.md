@@ -13,9 +13,9 @@ Blah blah blah
 <hr>
 
 <br>**SOBRE A ORGANIZAÇÃO DO GITHUB:**
-- Pasta 'AlgoritmosGeneticos': todos os documentos disponibilizados dentro dela estarão relacionados com conceitos e exercícios de Alg. Genéticos. 
+- Pasta 'Tal e Tal': todos os documentos disponibilizados dentro dela estarão relacionados com conceitos e exercícios de tal e tal matéria;
 > **Status**: `FINALIZADA`
-- Pasta 'Redes Neurais': todos os documentos nela presentes estarão relacionados com conceitos e exercícios relacionados com Redes Neurais.
+- Pasta 'Taltaltal': todos os documentos nela presentes estarão relacionados com conceitos e exercícios relacionados com tal
 > Status: `FINALIZADA`
 
 <hr>
