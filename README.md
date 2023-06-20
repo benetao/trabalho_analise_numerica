@@ -1,2 +1,1 @@
-# trabalho_analise_numerica
-Oi Viniiii
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Trabalho%20de%20Análise%20Numérica&fontSize=50&fontAlignY=38&desc=Método%20das%20Diferenças%20Finitas%20para%20resolução%20de%20EDPs&descAlignY=51&descAlign=62)
