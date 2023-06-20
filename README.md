@@ -3,17 +3,17 @@
 ***A disciplina de Análise Numérica é ministrada pelo Prof. Dr. Vinícius Wasques, no terceiro período do curso de Ciência e Tecnologia da Ilum - Escola de Ciência/CNPEM. O presente repositório contem a atividade final dessa disciplina, que foi realizada em grupos de três estudantes..***
 
 <br> No trabalho final da disicplina de Análise Numérica, foi pedido aos alunos que utilizassem o Método das Diferenças Finitas para obter a solução das equações de `calor` e de `advecção`. Além disso, era necessário explorar os seguintes tópicos relacionados à atividade:
-> Explicação das equações do ponto de vista físico, químico ou biológico;
+  > Explicação das equações do ponto de vista físico, químico ou biológico
 
-> Desenvolvimento do código
+  > Desenvolvimento do código
 
-> Como o método de diferenças finitas foi utilizado
+  > Como o método de diferenças finitas foi utilizado
 
-> Gráfico da solução de cada problema
+  > Gráfico da solução de cada problema
 
-> Contribuições de cada membro da equipe
+  > Contribuições de cada membro da equipe
 
-> Referências
+  > Referências
 
 
 Blah blah blah
