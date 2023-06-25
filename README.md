@@ -25,6 +25,8 @@ Blah blah blah
 > Status: `EM ANDAMENTO`
 - No arquivo [Metodo_das_diferencas_finitas](https://github.com/benetao/trabalho_analise_numerica/blob/main/Metodo_das_Diferencas_Finitas.ipynb), você encontra todo o código desenvolvido para plotagem dos gráficos
 > **Status**: `EM ANDAMENTO`
+- Na pasta [Figuras](https://github.com/benetao/trabalho_analise_numerica/tree/main/Figuras), você encontra todos os arqivos dos gráficos plotados no código
+> **Status**: `EM ANDAMENTO`
 
 <hr>
 
