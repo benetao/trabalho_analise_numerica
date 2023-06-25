@@ -16,8 +16,6 @@
   > Referências
 
 
-Blah blah blah
-
 <hr>
 
 <br>**SOBRE A ORGANIZAÇÃO DO GITHUB:**
